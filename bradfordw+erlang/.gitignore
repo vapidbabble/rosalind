@@ -1,4 +1,4 @@
-.beam
+*.beam
 *.swp
 .DS_Store
 rel/oculus
