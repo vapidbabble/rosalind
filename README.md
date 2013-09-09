@@ -1,8 +1,12 @@
-rosalind
+Rosalind
 ========
 
-NashFP's Rosalind playground. Rosalind is a "project euler"-like platform for learning bioinformatics through problem solving. Time to play!
+NashFP's Rosalind playground. [Rosalind](http://rosalind.info) is a *project-euler-like* platform for learning bioinformatics through problem solving. 
 
-Pick your favorite problems from here: http://rosalind.info/problems/list-view/ and solve them using your functional language of choice.
+> "Make sure you register: allows downloading test data 
+> sets & tracking your progress. Addictive" 
+>     -- [Jon Dailey](https://twitter.com/macintux)
 
-Contribute your solution by adding a folder name {your twitter handle}+{your language} such as "bryan_hunter+erlang".
+Pick your favorite problems from here: http://rosalind.info/problems/list-view/ and solve them using your functional language of choice. Contribute your solution by adding a folder name {your twitter handle}+{your language} such as "bryan_hunter+erlang".
+
+Time to play!
